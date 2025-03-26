@@ -22,7 +22,6 @@ bin-int/
 .DS_Store
 
 # Build files and generated files
-GenerateProjects.bat
 premake/
 
 # Other generated files (if not needed)
