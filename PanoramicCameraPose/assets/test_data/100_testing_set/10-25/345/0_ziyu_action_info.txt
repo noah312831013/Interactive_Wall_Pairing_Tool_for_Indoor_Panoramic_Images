@@ -1,0 +1,5 @@
+PrimaryWall_: 12
+SecondaryWall_: 7
+ElapsedTime_: 8699
+RotationError_: 86.0891
+TranslationError_: 51.3088

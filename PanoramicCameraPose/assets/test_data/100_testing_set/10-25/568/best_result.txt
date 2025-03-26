@@ -1,0 +1,2 @@
+Rotation, Translation: (1.01772, 1.63737)
+Best Pair: (1, 7)

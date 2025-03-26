@@ -1,0 +1,19 @@
+#Binaries
+bin/
+bin-int/
+#except
+!PanoramicCameraPose/vendor/opencv/bin
+!PanoramicCameraPose/vendor/OpenMVG/bin
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+.bin/
+.bin-int/
+# openMVG reuslt
+**.svg
+**.ply

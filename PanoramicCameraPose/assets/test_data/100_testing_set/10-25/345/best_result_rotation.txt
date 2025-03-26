@@ -1,0 +1,2 @@
+Best Error: (0.22109, 96.239)
+Best Pair: (2, 10)
