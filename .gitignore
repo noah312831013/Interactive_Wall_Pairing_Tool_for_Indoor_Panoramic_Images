@@ -17,3 +17,13 @@ bin-int/
 # openMVG reuslt
 **.svg
 **.ply
+
+# macOS system files
+.DS_Store
+
+# Build files and generated files
+GenerateProjects.bat
+premake/
+
+# Other generated files (if not needed)
+*.log
